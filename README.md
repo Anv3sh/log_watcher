@@ -4,4 +4,4 @@
 - real time (websocket)
 - last 10 lines on first page visit
 - multiple clients possible
-- read in efficient way.
+- read in efficient way(using buffer method).
